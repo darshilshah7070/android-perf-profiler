@@ -13,7 +13,7 @@ No root required.
 
 ---
 
-## 📋 Prerequisites
+## Prerequisites
 
 ### On Linux Host:
 - **ADB** (Android Debug Bridge)  
